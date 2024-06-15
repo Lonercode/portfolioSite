@@ -53,6 +53,7 @@ a {
     animation-delay: 2s;
     animation-fill-mode: backwards;
     opacity: 1;
+    line-height: 1vw;
 }
 
 .myProjects {
