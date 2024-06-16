@@ -12,7 +12,7 @@ body {
     background-color:slategrey;
     color: white;
     overflow-x: hidden;
-    margin-bottom: 2vw;
+    padding-bottom: 2vw;
 }
 
 a {
