@@ -140,7 +140,10 @@ a {
     }
 
     .myIntro {
-        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
         margin-top: 20vw;
         width: fit-content;
         float: none;
@@ -154,6 +157,7 @@ a {
         font-size: 4vw;
         text-align: justify;
         line-height: 1.5;
+        width: 70vw;
     }
     
     
@@ -226,7 +230,10 @@ a {
     }
 
     .myIntro {
-        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
         margin-top: 20vw;
         width: fit-content;
         float: none;
