@@ -153,7 +153,8 @@ a {
 
     .myIntro p {
         font-size: 4vw;
-        text-align: center;
+        text-align: justify;
+        line-height: 1.5;
     }
     
     
@@ -239,7 +240,8 @@ a {
 
     .myIntro p {
         font-size: 4vw;
-        text-align: center;
+        text-align: justify;
+        line-height: 1.5;
     }
     
     
