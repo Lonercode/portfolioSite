@@ -12,6 +12,7 @@ body {
     background-color:slategrey;
     color: white;
     overflow-x: hidden;
+    margin-bottom: 2vw;
 }
 
 a {
@@ -147,6 +148,7 @@ a {
         margin-top: 20vw;
         width: fit-content;
         float: none;
+        margin-left: none;;
     }
 
     .myIntro h1 {
@@ -237,6 +239,7 @@ a {
         margin-top: 20vw;
         width: fit-content;
         float: none;
+        margin-left: none;
     }
 
     .myIntro h1 {
