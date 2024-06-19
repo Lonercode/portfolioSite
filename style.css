@@ -114,7 +114,15 @@ a {
         right: 0vw;
         z-index: 1;
      }
-
+     #logo{
+        padding: 15px;
+        position: absolute;
+        left: 0vw;
+        z-index: 1;
+        width:20vw;
+        border-radius: 2vw;
+        top:0vw;
+     }
      .myNav{
         display: none;
      }
@@ -190,6 +198,7 @@ a {
        
     }
 
+
     
       
 }
@@ -214,6 +223,16 @@ a {
         position: absolute;
         right: 0vw;
         z-index: 1;
+     }
+
+     #logo{
+        padding: 15px;
+        position: absolute;
+        left: 0vw;
+        z-index: 1;
+        width:20vw;
+        border-radius: 2vw;
+        top:0vw;
      }
 
      .myNav{
