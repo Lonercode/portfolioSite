@@ -201,17 +201,18 @@ a {
     #hamburger-menu{
         display: block;
         position: relative;
+        width: 100vw;
+    
     }
     
     .hamburger-button {
         background-color: #333;
         color: white;
-        padding: 30px;
-        font-size: 40px;
+        padding: 15px;
+        font-size: 24px;
         cursor: pointer;
         position: absolute;
-        top:-1vw;
-        right: -50vw;
+        right: 0vw;
         z-index: 1;
      }
 
@@ -219,13 +220,22 @@ a {
         display: none;
      }
 
+     .navStrip{
+        display: block;
+        width: 100vw;
+        height: 10vh;
+        background-color: #333;
+        z-index: 0;
+        position: absolute;
+        
+    }
+
      .myNavMobile {
         display: none;
         background-color: #333;
         color: white;
         position:absolute;
-        top:-1vw;
-        right: -50vw;
+        right: 0vw;
         width: 100vw;
         z-index: 0;
      }
