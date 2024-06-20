@@ -164,17 +164,14 @@ a {
         align-items: center;
         flex-direction: column;
         margin: 0;
+        width: 100vw;
     }
 
     .myIntro {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
         margin-top: 20vw;
-        width: fit-content;
+        width: 90vw;
         float: none;
-        margin-left: none;;
+        margin-left: 0vw;
     }
 
     .myIntro h1 {
@@ -278,17 +275,14 @@ a {
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        width: 100vw;
     }
 
     .myIntro {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
         margin-top: 20vw;
-        width: fit-content;
+        width: 90vw;
         float: none;
-        margin-left: none;
+        margin-left: 0vw;
     }
 
     .myIntro h1 {
@@ -299,6 +293,7 @@ a {
         font-size: 4vw;
         text-align: justify;
         line-height: 1.5;
+        
     }
     
     
@@ -313,16 +308,7 @@ a {
        
     }
 
-    .myNav{
-        overflow:hidden;
-        width: 100vw;
-        height: 12vh;
-        padding-top: 3vh;
-        padding-bottom: 2vh;
-        position: absolute;
-        left: 65vw;
-        top: 0vw;
-      }
+   
 }
 
 /* Bigger screen computers */
